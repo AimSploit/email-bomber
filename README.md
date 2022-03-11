@@ -1,7 +1,7 @@
 # email-bomber
 A basic email spammer/bomber made in Python.
 
-⚠️ WARNING ⚠️
+⚠️ **WARNING** ⚠️
 
 You MUST enable less secure apps in the Google account settings or the app will not work, because it uses insecure authentication!
 https://myaccount.google.com/lesssecureapps
@@ -13,7 +13,7 @@ Only Gmail accounts are supported. I am not sure if emails from other providers 
 
 
 
-Supports:
+**Supports:**
 
 ✅ Multiple email subjects
 
@@ -27,7 +27,7 @@ Supports:
 
 
 
-Will support:
+**Will support:**
 - Completely random subjects and messages
 - more SMTPs (only Gmail is supported at the moment)
 

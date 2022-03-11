@@ -12,8 +12,11 @@ Only Gmail accounts are supported. I am not sure if emails from other providers 
 
 Supports:
 ✅ Multiple email subjects
+
 ✅ Multiple email messages
+
 ✅ Random number generator to prevent message stacking.
+
 
 
 

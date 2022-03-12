@@ -8,9 +8,10 @@ https://myaccount.google.com/lesssecureapps Maybe I will rewrite the code to sup
 
 Only Gmail accounts are supported. I am not sure if emails from other providers work, I didn't test it.
 
+**Misc**
+> Join our [Discord](https://aimforum.ml/freesploitdis.html)
 
-
-
+>You can check out the full license [here](https://github.com/AimSploit/email-bomber/blob/main/LICENSE) This project is licensed under the terms of the **BSD-3-Clause License** license.
 
 
 **Supports:**
